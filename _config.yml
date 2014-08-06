@@ -3,7 +3,7 @@ highlighter: null
 permalink: /:title
 
 url: "http://diego.ink"
-baseurl: "http://diego.ink"
+baseurl: ""
 
 redcarpet:
   extensions: [strikethrough, tables]
