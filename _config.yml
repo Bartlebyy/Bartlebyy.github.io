@@ -2,11 +2,7 @@ markdown: redcarpet
 highlighter: null
 permalink: /:title
 
-<<<<<<< HEAD
-url:"http://diego.ink"
-=======
 url: "http://diego.ink"
->>>>>>> 6b8c9f0096b14ad589c814f71a94c9ce2a18ec98
 baseurl: ""
 
 redcarpet:
